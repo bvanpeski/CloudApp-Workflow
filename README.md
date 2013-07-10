@@ -21,7 +21,7 @@ If you have recently auto-uploaded a screenshot or manually dragged an image int
 
 
 # Download
-[CloudApp Direct Link workflow](https://github.banksimple.com/CR/Productivity-Hacks/blob/master/Alfred-Extensions/CloudApp_directlink_workflow/CloudApp_DirectLink.alfredworkflow?raw=true)
+[CloudApp Direct Link workflow](https://github.com/bvp663/CloudApp-Workflow/blob/master/CloudApp_DirectLink.alfredworkflow?raw=true)
 
 
 
